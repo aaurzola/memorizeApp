@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9392B442919DA26004ED6F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F4E8652910398D0025C790 /* ContentView.swift */; };
 		A9F4E8642910398D0025C790 /* memoryAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F4E8632910398D0025C790 /* memoryAppApp.swift */; };
-		A9F4E8662910398D0025C790 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F4E8652910398D0025C790 /* ContentView.swift */; };
 		A9F4E8682910398E0025C790 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9F4E8672910398E0025C790 /* Assets.xcassets */; };
 		A9F4E86B2910398E0025C790 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9F4E86A2910398E0025C790 /* Preview Assets.xcassets */; };
 		A9F4E8752910398E0025C790 /* memoryAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F4E8742910398E0025C790 /* memoryAppTests.swift */; };
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9F4E8662910398D0025C790 /* ContentView.swift in Sources */,
+				A9392B442919DA26004ED6F9 /* ContentView.swift in Sources */,
 				A9F4E8642910398D0025C790 /* memoryAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
